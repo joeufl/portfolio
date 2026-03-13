@@ -1,4 +1,8 @@
 <!-- https://joeufl.github.io/portfolio/ -->
+---
+layout: home
+title: Portfolio
+---
 
 Data Analyst | Analytics Engineering | Institutional Data Systems
 
