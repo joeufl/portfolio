@@ -1,0 +1,9 @@
+title: Joe Uong
+description: Data Systems, Analytics Engineering, and Institutional Data
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - writing.md
+  # - resume.md
