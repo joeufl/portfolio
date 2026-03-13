@@ -1,4 +1,4 @@
-# Joe Uong 
+<!-- https://joeufl.github.io/portfolio/ -->
 
 Data Analyst | Analytics Engineering | Institutional Data Systems
 
