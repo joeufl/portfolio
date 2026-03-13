@@ -2,12 +2,10 @@ title: Joe Uong Portfolio
 description: Data Systems, Analytics Engineering, and Institutional Data
 theme: minima
 
-author:
-  name: Joe Uong
+author: Joe Uong
 
 header_pages:
   - about.md
   - projects.md
   - writing.md
-
   # - resume.md
