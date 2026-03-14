@@ -1,4 +1,7 @@
-# Projects
+---
+layout: page
+title: Projects
+---
 
 ## Advising Analytics Platform
 Analytics tools for academic advising and student success.

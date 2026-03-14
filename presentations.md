@@ -1,4 +1,8 @@
-# Presentations and Publications
+---
+layout: page
+title: Presentations and Publications
+permalink: /presentations-and-publications
+---
 
 - **[2025 Higher Ed Dreamin'](https://highereddreamin.com/)**: [From Paper to Platform: Petition Tracking in Salesforce](https://www.youtube.com/watch?v=SkNjFr9szgM) (with Nathan Henebury) (2025-12-10)
 - **[2025 Ytori (Spring/Summer)](https://news.clas.ufl.edu/ytori-magazine-page/ytori-spring-summer-2025/)**: [Close2Grad](https://news.clas.ufl.edu/close2grad/) -- story feature by Kathryn Pizzurro (2025-06-16)

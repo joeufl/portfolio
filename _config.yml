@@ -5,8 +5,8 @@ theme: minima
 author: Joe Uong
 
 header_pages:
-  - about.md
   - projects.md
   - writing.md
   - presentations.md
+  - awards.md
   # - resume.md
