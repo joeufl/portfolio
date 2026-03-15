@@ -6,7 +6,7 @@ author: Joe Uong 2026
 
 header_pages:
   - projects.md
-  - presentations.md
-  - awards.md
+  - recognition.md
+  # - awards.md
   # - writing.md
   # - resume.md
