@@ -21,14 +21,17 @@ My work focuses on:
 
 ## Selected Work
 
-### Advising Analytics System
-Designing data pipelines and dashboards to support academic advising decisions.
+### Pre-Health Service Indicator
+Built the infrastructure to track UF's pre-health student population — replacing years of guesswork from an unmaintained listserv with a maintained, self-service system now used by thousands of students.
 
-### Snowflake Data Pipelines
-Automating analytics workflows using SQL and Python.
+### Quest Mass Enrollment Algorithm
+Annual placement algorithm for incoming UF freshmen into Quest 1 courses. Runs each May using survey data and priority logic to enroll thousands of students before orientation.
 
-### Institutional Data Architecture
-Designing data models and reporting layers for complex organizations.
+### SIDA Watchlist + AI Concern Scoring
+Early warning system that uses NaviGatorAI (GPT) to read student drop reasons and score each 1–100 for level of concern — enabling advisors to do proactive outreach for at-risk students.
+
+### Salesforce Case Sharing
+Led the integration of CLAS advising operations into Salesforce (Gator360) and opened CLAS cases as read-only to 200+ campus advisors across UF — a long-standing goal realized in April 2025.
 
 ---
 
