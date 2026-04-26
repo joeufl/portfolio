@@ -1,0 +1,80 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+/* Nav list */
+header nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 0;
+}
+
+header nav ul li {
+  margin-bottom: 0.4em;
+}
+
+header nav ul li a,
+header nav ul li a:visited {
+  color: #4a9eff !important;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+header nav ul li a:hover {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+/* Body links */
+section a,
+section a:visited {
+  color: #4a9eff !important;
+}
+
+section a:hover {
+  color: #ffffff !important;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+  margin-bottom: 1.5em;
+}
+
+th {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  padding: 0.5em 0.75em;
+  text-align: left;
+  border-bottom: 2px solid #4a9eff;
+}
+
+td {
+  padding: 0.45em 0.75em;
+  border-bottom: 1px solid #2a2a2a;
+  vertical-align: top;
+}
+
+tr:nth-child(even) td {
+  background-color: #1e1e1e;
+}
+
+/* Section headings */
+section h2 {
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.3em;
+  margin-top: 2em;
+}
+
+section h3 {
+  color: #cccccc;
+  margin-top: 1.5em;
+}
+
+/* Strong labels (Problem, Approach, etc.) */
+section strong {
+  color: #ffffff;
+}

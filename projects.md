@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Projects
+permalink: /projects
 ---
 
 ## Pre-Health Service Indicator

@@ -1,12 +1,9 @@
 title: Joe Uong Portfolio
 description: Data Systems, Analytics Engineering, and Institutional Data
-theme: minima
+theme: jekyll-theme-midnight
 
 author: Joe Uong
 
-header_pages:
-  - projects.md
-  - recognition.md
-  # - awards.md
-  # - writing.md
-  # - resume.md
+markdown: kramdown
+kramdown:
+  input: GFM
