@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Professional Recognition
-permalink: /recognition
+title: Professional Activity
+permalink: /professional-activity
 ---
 
 ## 🏆 Awards
@@ -28,7 +28,7 @@ permalink: /recognition
 | 2021 | [Florida Association of Collegiate Registrars and Admissions Officers](https://www.facrao.org/) (FACRAO) | Roundtable - Institutional Responses | Facilitator | | 2021-06 | Virtual | 
 | 2019 | [Southern Association of Collegiate Registrars and Admissions Officers](https://www.sacrao.org/) (SACRAO) Conference | [Facilitating an Open Forum, Town Hall, or other Information Gathering Session on your Campus](https://web.archive.org/web/20180901171229/http://sacrao.org/?p=session.view&psConference=2019) | Speaker |Colin Yokomi | 2019-02-05 | Baton Rouge, LA |
 | 2017 | [National Association of Student Personnel Administrators](https://www.naspa.org/home) (NASPA) - Florida Drive-In Conference | Learning to individualize: Supervision in community college student affairs | Speaker | Cliff Haynes, Tina Lamb | 2017-11-03 | Gainesville, FL |
-| 2017 | [Community College Journal of Research and Practice](https://www.tandfonline.com/toc/ucjc20/current ) | [Trial and Error: How Student Affairs Staff in Community Colleges Learn to Supervise](http://www.tandfonline.com/doi/full/10.1080/10668926.2017.1343690) | Author | Christina Lamb, Joseph Uong, Cliff Haynes, Eric Coley, Lynne Valdes & Douglas Wendel  | 2017-07-12 | Online Publication | 
+| 2017 | [Community College Journal of Research and Practice](https://www.tandfonline.com/toc/ucjc20/current ) | [Trial and Error: How Student Affairs Staff in Community Colleges Learn to Supervise](http://www.tandfonline.com/doi/full/10.1080/10668926.2017.1343690) | Author | Christina Lamb, Cliff Haynes, Eric Coley, Lynne Valdes & Douglas Wendel  | 2017-07-12 | Online Publication | 
 | 2017 | [Florida Association of Collegiate Registrars and Admissions Officers](https://www.facrao.org/) (FACRAO) [Annual Summit](https://web.archive.org/web/20170615113434/https://www.facrao.org/) | Facilitating Open Sessions | Speaker | Christina Monesar | 2017-06-06 | Wesley Chapel, FL |
 | 2017 | [Florida Association of Collegiate Registrars and Admissions Officers](https://www.facrao.org/) (FACRAO) [Annual Summit](https://web.archive.org/web/20170615113434/https://www.facrao.org/) | Transitions: Being a Fish Out of Water | Speaker |Christina Monesar, Mallori Wojcik | 2017-06-06 | Wesley Chapel, FL |
 
