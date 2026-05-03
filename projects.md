@@ -14,6 +14,10 @@ permalink: /projects
 
 **Current state:** A few thousand students are now tracked with a clean, maintained record — replacing years of guesswork. The indicator is intentionally built as a foundation: planned future uses include pre-health course demand prediction and surfacing BCP/BCPM GPAs directly in students' degree audits.
 
+> "A game-changer for our ability to support students... This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
+>
+> — Brittany Hoover, Assistant Director of Pre-Health Advising, CLAS
+
 ---
 
 ## Quest Mass Enrollment Algorithm
@@ -25,6 +29,18 @@ permalink: /projects
 **Tools:** Python (pandas), Salesforce, Snowflake, Campus Solutions (PeopleSoft SIS)
 
 **Impact:** Runs annually each May as part of UF Preview orientation preparation, placing thousands of incoming students across Summer and Fall. Priority logic updated in 2025 to better serve Honors and URSP populations.
+
+---
+
+## Close2Grad
+
+**Problem:** When UF students miss three consecutive semesters, they're marked "discontinued" and can't re-enroll without a formal process. Many of these students were within reach of graduation — a few courses away — but had simply lost momentum and never returned. Others had completed the degree without formal certification and simply needed a system audit. No systematic process existed to identify them and reach back out.
+
+**Approach:** With assistance from the Provost's Office, built a reporting system in the SIS to surface discontinued CLAS students close to completing their degree requirements. The CLAS Undergraduate Graduation Coordinator conducts personalized outreach — emails, phone calls, check-ins — and works through whatever is in the way: re-enrollment paperwork, holds, financial obstacles. The data identifies who to contact; the human relationship moves them to act.
+
+**Tools:** Snowflake, Campus Solutions (PeopleSoft SIS)
+
+**Impact:** Since launching, the program has identified and contacted 38 discontinued students. 13 have graduated. Featured in [Ytori magazine (Spring/Summer 2025)](https://news.clas.ufl.edu/close2grad/).
 
 ---
 
@@ -49,3 +65,7 @@ permalink: /projects
 **Tools:** Salesforce (Gator360), UFIT CRM team
 
 **Impact:** Described by the UFIT CRM team as "a long-standing goal become a reality." The goal was never just the configuration — it was demonstrating that an office was willing to go first.
+
+> "He has created a model for how large and small advising units can and should adopt specific technologies to improve how they interact with and serve students."
+>
+> — TJ Summerford, CRM Team Lead, UF Information Technology
