@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-I've spent my entire career at the University of Florida — but from progressively different vantage points on the same institution.
+My career has moved steadily deeper into the stack — from front-line student services to the data infrastructure underneath.
 
 I started at the Office of the University Registrar in 2011 as a Student Records Coordinator. The Registrar is where you learn what a student record actually is: not a row in a table, but the legal and operational representation of someone's academic life. I managed a team of 50, oversaw the processing and maintenance of 600,000+ records, and advised students directly on registration, academic policy, and holds. It's operational work, and it teaches you quickly where the system breaks and who absorbs the cost when it does.
 
