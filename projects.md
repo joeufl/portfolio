@@ -18,6 +18,10 @@ permalink: /projects
 >
 > — Sharon Karackattu, Biology Advisor
 
+> "This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
+>
+> — Brittany Hoover, Assistant Director of Pre-Health Advising, CLAS
+
 ---
 
 ## Quest Mass Enrollment Algorithm
