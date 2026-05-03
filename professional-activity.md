@@ -4,7 +4,7 @@ title: Professional Activity
 permalink: /professional-activity
 ---
 
-## 🏆 Awards
+## Awards
 
 | Year | Award | Organization | 
 | :--- | :--- | :--- |
@@ -13,7 +13,7 @@ permalink: /professional-activity
 | 2020 | [Superior Accomplishment Award](https://hr.ufl.edu/professional-development/employee-awards/superior-accomplishment-awards/) - Employee Performance | University of Florida - Academic Affairs Division | 
 | 2020 | Outstanding Co-Instructor - Summer B | [First Year Florida](https://welcome.ufl.edu/fyf/) | 
 
-## 🎤 Presentations & Publications
+## Presentations & Publications
 
 | Year | Conference/Publication Name | Title | Role | Collaborators | Date | Location | 
 | :--- | :--- | :--- | :--- | :--- | :---| :--- |
@@ -48,7 +48,7 @@ permalink: /professional-activity
 | :--- | :--- | :--- |
 | 2015–2025 | Co-Instructor | [First Year Florida](https://welcome.ufl.edu/fyf/), University of Florida |
 
-## 📰 Media
+## Media
 
 | Year | Outlet | Topic | Role |
 |:---| :---| :---| :---|
