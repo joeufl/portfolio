@@ -42,6 +42,10 @@ permalink: /projects
 
 **Impact:** Since launching, the program has identified and contacted 38 discontinued students. 13 have graduated. Featured in [Ytori magazine (Spring/Summer 2025)](https://news.clas.ufl.edu/close2grad/).
 
+> "I'm grateful to have a data coordinator and a graduation coordinator, who can find the time to work together to make progress like this. First and foremost for the students, of course, but writ large it helps the university achieve its goals of getting students their degrees."
+>
+> — Joe Spillane, former Associate Dean, College of Liberal Arts and Sciences
+
 ---
 
 ## SIDA Watchlist + AI Concern Scoring
@@ -88,8 +92,8 @@ permalink: /projects
 
 **Problem:** Standard waitlist counts don't distinguish between two fundamentally different student situations: a student already enrolled in a course who joined the waitlist hoping for a better section, and a student on the waitlist with no seat at all who genuinely needs one. Treating them the same makes it impossible to prioritize registration decisions or measure true unmet course demand.
 
-**Approach:** Built a report in Snowflake that separates waitlisted students into two groups — those already enrolled in the course (seeking a preferred seat) and those not enrolled at all (needing a seat). CLAS data governance restrictions prevented sharing the report directly with the broader advising community. To extend access, I requested that UFIT replicate it in their infrastructure using my code and logic; they built and deployed it campus-wide through Enterprise Reports.
+**Approach:** Built a report in Cognos using Snowflake views that separates waitlisted students into two groups — those already enrolled in the course (seeking a preferred seat) and those not enrolled at all (needing a seat). UF data governance restrictions prevented sharing the report directly with the broader advising community. To extend access, I requested that UFIT replicate it in their infrastructure using my code and logic; they built and deployed it campus-wide through Enterprise Analytics reporting infrastructure.
 
 **Tools:** Snowflake SQL, UFIT Enterprise Reports
 
-**Impact:** The report is now available to the full academic and advising community across UF. Advisors can identify which waitlisted students actually need a seat — enabling informed prioritization and a clearer picture of true course demand.
+**Impact:** The report is now available to the full academic and advising community across UF. Advisors and departmental administrators can identify which waitlisted students actually need a seat — enabling informed prioritization and a clearer picture of true course demand.

@@ -14,7 +14,7 @@ When I returned to the Registrar's Office from the COMPASS project, I moved into
 
 In 2022, I moved to the College of Liberal Arts and Sciences as a Data Management Analyst. CLAS is the largest college at UF, and the work shifted from reporting on data to building systems that act on it: Snowflake pipelines, Python automation, AI-powered triage, enrollment algorithms, population tracking infrastructure. The problems I'm solving now are ones I watched get handled manually — or not handled at all — earlier in my career.
 
-I also teach First Year Florida, UF's signature course for incoming students, which I've done every summer since 2015. It keeps me close to what the work is actually for.
+I also taught First Year Florida, UF's signature course for incoming students from 2015 to 2025. It keeps me close to what the work is actually for.
 
 ---
 

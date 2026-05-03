@@ -24,6 +24,10 @@ I design and deploy production data systems at the University of Florida's Colle
 >
 > — TJ Summerford, CRM Team Lead, UF Information Technology
 
+> "This would not have been possible without Joe Uong's swift and clever buildout of the data."
+>
+> — Trysh Travis, former Associate Dean, College of Liberal Arts and Sciences
+
 ---
 
 ## Selected Work

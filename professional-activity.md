@@ -32,6 +32,22 @@ permalink: /professional-activity
 | 2017 | [Florida Association of Collegiate Registrars and Admissions Officers](https://www.facrao.org/) (FACRAO) [Annual Summit](https://web.archive.org/web/20170615113434/https://www.facrao.org/) | Facilitating Open Sessions | Speaker | Christina Monesar | 2017-06-06 | Wesley Chapel, FL |
 | 2017 | [Florida Association of Collegiate Registrars and Admissions Officers](https://www.facrao.org/) (FACRAO) [Annual Summit](https://web.archive.org/web/20170615113434/https://www.facrao.org/) | Transitions: Being a Fish Out of Water | Speaker |Christina Monesar, Mallori Wojcik | 2017-06-06 | Wesley Chapel, FL |
 
+## Service & Leadership
+
+| Years | Role | Organization |
+| :--- | :--- | :--- |
+| 2025–present | Finance Committee Chair; Steering Committee | [Undergraduate Advising Council](https://uac.ufl.edu/), University of Florida |
+| 2024–present | Staff Council Member | [CLAS Staff Council](https://gov.clas.ufl.edu/college-staff-council/), College of Liberal Arts and Sciences |
+| 2024–present | Data, Reporting & Analytics Workgroup | [Streamlining Academic Management (SAM)](https://sam.em.ufl.edu/), University of Florida |
+| 2024–present | Member | Data@UF, University of Florida |
+| 2023–2024 | Member | [Academic Operations Technology Workgroup (AOTW)](https://web.archive.org/web/20241205093306/https://studentsuccess.ufl.edu/impact-initiatives/aotw/), University of Florida |
+
+## Teaching
+
+| Years | Role | Organization |
+| :--- | :--- | :--- |
+| 2015–2025 | Co-Instructor | [First Year Florida](https://welcome.ufl.edu/fyf/), University of Florida |
+
 ## 📰 Media
 
 | Year | Outlet | Topic | Role |
