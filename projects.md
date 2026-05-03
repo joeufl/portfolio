@@ -14,7 +14,11 @@ permalink: /projects
 
 **Current state:** A few thousand students are now tracked with a clean, maintained record — replacing years of guesswork. The indicator is intentionally built as a foundation: planned future uses include pre-health course demand prediction and surfacing BCP/BCPM GPAs directly in students' degree audits.
 
-> "A game-changer for our ability to support students... This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
+> "A game-changer for our ability to support students, especially as first-year pre-health advising responsibilities are transferred to departments, given that over 70% of biology majors aspire to health professions."
+>
+> — Sharon Karackattu, Biology Advisor
+
+> "This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
 >
 > — Brittany Hoover, Assistant Director of Pre-Health Advising, CLAS
 
