@@ -2,6 +2,9 @@ title: Joe Uong Portfolio
 description: Data Systems, Analytics Engineering, and Institutional Data
 theme: jekyll-theme-midnight
 
+url: "https://portfolio.joeuong.com"
+baseurl: ""
+
 author: Joe Uong
 
 markdown: kramdown
