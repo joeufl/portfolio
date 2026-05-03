@@ -69,3 +69,27 @@ permalink: /projects
 > "He has created a model for how large and small advising units can and should adopt specific technologies to improve how they interact with and serve students."
 >
 > — TJ Summerford, CRM Team Lead, UF Information Technology
+
+---
+
+## CLAS Registration Dashboard
+
+**Problem:** Department leaders across CLAS needed regular enrollment counts — how many majors, minors, and certificate students are in their department right now. Cognos could answer the question but required enough technical skill that most leaders came to me for one-off requests instead, creating a bottleneck for routine headcount questions.
+
+**Approach:** Built Snowflake views to aggregate current enrollment data by major, minor, and certificate across CLAS departments, then connected them to a Power BI dashboard built for a non-technical leadership audience. The dashboard refreshes automatically on a regular schedule so current counts are always available without a data request.
+
+**Tools:** Snowflake, Power BI
+
+**Impact:** Eliminated a recurring category of ad hoc data requests. Department leaders across CLAS now have self-service access to enrollment counts — no ticket required.
+
+---
+
+## Unique Waitlist Demand Reporting
+
+**Problem:** Standard waitlist counts don't distinguish between two fundamentally different student situations: a student already enrolled in a course who joined the waitlist hoping for a better section, and a student on the waitlist with no seat at all who genuinely needs one. Treating them the same makes it impossible to prioritize registration decisions or measure true unmet course demand.
+
+**Approach:** Built a report in Snowflake that separates waitlisted students into two groups — those already enrolled in the course (seeking a preferred seat) and those not enrolled at all (needing a seat). CLAS data governance restrictions prevented sharing the report directly with the broader advising community. To extend access, I requested that UFIT replicate it in their infrastructure using my code and logic; they built and deployed it campus-wide through Enterprise Reports.
+
+**Tools:** Snowflake SQL, UFIT Enterprise Reports
+
+**Impact:** The report is now available to the full academic and advising community across UF. Advisors can identify which waitlisted students actually need a seat — enabling informed prioritization and a clearer picture of true course demand.

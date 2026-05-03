@@ -43,6 +43,12 @@ Early warning system that uses NaviGatorAI (GPT) to read student drop reasons an
 ### [Salesforce Case Sharing](/projects#salesforce-case-sharing)
 Led the integration of CLAS advising operations into Salesforce (Gator360) and opened CLAS cases as read-only to 200+ campus advisors across UF — a long-standing goal realized in April 2025.
 
+### [CLAS Registration Dashboard](/projects#clas-registration-dashboard)
+Power BI dashboard backed by Snowflake views that gives CLAS department leaders self-service access to current enrollment counts across majors, minors, and certificates — replacing recurring ad hoc data requests.
+
+### [Unique Waitlist Demand Reporting](/projects#unique-waitlist-demand-reporting)
+Report that separates waitlisted students into those who need a seat and those who already have one — enabling true demand prioritization. Built for CLAS, then adopted campus-wide by UFIT Enterprise Reports.
+
 ---
 
 ➡️ [View Projects](/projects)
