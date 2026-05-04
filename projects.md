@@ -14,6 +14,14 @@ permalink: /projects
 
 **Current state:** A few thousand students are now tracked with a clean, maintained record — replacing years of guesswork. The indicator is intentionally built as a foundation: planned future uses include pre-health course demand prediction and surfacing BCP/BCPM GPAs directly in students' degree audits.
 
+> "A game-changer for our ability to support students, especially as first-year pre-health advising responsibilities are transferred to departments, given that over 70% of biology majors aspire to health professions."
+>
+> — Sharon Karackattu, Biology Advisor
+
+> "This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
+>
+> — Brittany Hoover, Assistant Director of Pre-Health Advising, CLAS
+
 ---
 
 ## Quest Mass Enrollment Algorithm
@@ -25,6 +33,22 @@ permalink: /projects
 **Tools:** Python (pandas), Salesforce, Snowflake, Campus Solutions (PeopleSoft SIS)
 
 **Impact:** Runs annually each May as part of UF Preview orientation preparation, placing thousands of incoming students across Summer and Fall. Priority logic updated in 2025 to better serve Honors and URSP populations.
+
+---
+
+## Close2Grad
+
+**Problem:** When UF students miss three consecutive semesters, they're marked "discontinued" and can't re-enroll without a formal process. Many of these students were within reach of graduation — a few courses away — but had simply lost momentum and never returned. Others had completed the degree without formal certification and simply needed a system audit. No systematic process existed to identify them and reach back out.
+
+**Approach:** With assistance from the Provost's Office, built a reporting system in the SIS to surface discontinued CLAS students close to completing their degree requirements. The CLAS Undergraduate Graduation Coordinator conducts personalized outreach — emails, phone calls, check-ins — and works through whatever is in the way: re-enrollment paperwork, holds, financial obstacles. The data identifies who to contact; the human relationship moves them to act.
+
+**Tools:** Snowflake, Campus Solutions (PeopleSoft SIS)
+
+**Impact:** Since launching, the program has identified and contacted 38 discontinued students. 13 have graduated. Featured in [Ytori magazine (Spring/Summer 2025)](https://news.clas.ufl.edu/close2grad/).
+
+> "I'm grateful to have a data coordinator and a graduation coordinator, who can find the time to work together to make progress like this. First and foremost for the students, of course, but writ large it helps the university achieve its goals of getting students their degrees."
+>
+> — Joe Spillane, former Associate Dean, College of Liberal Arts and Sciences
 
 ---
 
@@ -49,3 +73,31 @@ permalink: /projects
 **Tools:** Salesforce (Gator360), UFIT CRM team
 
 **Impact:** Described by the UFIT CRM team as "a long-standing goal become a reality." The goal was never just the configuration — it was demonstrating that an office was willing to go first.
+
+> "He has created a model for how large and small advising units can and should adopt specific technologies to improve how they interact with and serve students."
+>
+> — TJ Summerford, CRM Team Lead, UF Information Technology
+
+---
+
+## CLAS Registration Dashboard
+
+**Problem:** Department leaders across CLAS needed regular enrollment counts — how many majors, minors, and certificate students are in their department right now. Cognos could answer the question but required enough technical skill that most leaders came to me for one-off requests instead, creating a bottleneck for routine headcount questions.
+
+**Approach:** Built Snowflake views to aggregate current enrollment data by major, minor, and certificate across CLAS departments, then connected them to a Power BI dashboard built for a non-technical leadership audience. The dashboard refreshes automatically on a regular schedule so current counts are always available without a data request.
+
+**Tools:** Snowflake, Power BI
+
+**Impact:** Eliminated a recurring category of ad hoc data requests. Department leaders across CLAS now have self-service access to enrollment counts — no ticket required.
+
+---
+
+## Unique Waitlist Demand Reporting
+
+**Problem:** Standard waitlist counts don't distinguish between two fundamentally different student situations: a student already enrolled in a course who joined the waitlist hoping for a better section, and a student on the waitlist with no seat at all who genuinely needs one. Treating them the same makes it impossible to prioritize registration decisions or measure true unmet course demand.
+
+**Approach:** Built a report in Cognos using Snowflake views that separates waitlisted students into two groups — those already enrolled in the course (seeking a preferred seat) and those not enrolled at all (needing a seat). UF data governance restrictions prevented sharing the report directly with the broader advising community. To extend access, I requested that UFIT replicate it in their infrastructure using my code and logic; they built and deployed it campus-wide through Enterprise Analytics reporting infrastructure.
+
+**Tools:** Snowflake SQL, UFIT Enterprise Reports
+
+**Impact:** The report is now available to the full academic and advising community across UF. Advisors and departmental administrators can identify which waitlisted students actually need a seat — enabling informed prioritization and a clearer picture of true course demand.

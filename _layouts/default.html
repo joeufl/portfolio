@@ -11,10 +11,10 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <p>{{ site.description }}</p>
         <nav>
           <ul>
             <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/about' | relative_url }}">About</a></li>
             <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
             <li><a href="{{ '/professional-activity' | relative_url }}">Professional Activity</a></li>
           </ul>
@@ -25,6 +25,7 @@
       </section>
       <footer>
         <p><small>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</small></p>
+        <p><small><a href="https://linkedin.com/in/josephuong">LinkedIn</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>

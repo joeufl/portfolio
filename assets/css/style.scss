@@ -26,6 +26,13 @@ header nav ul li a:hover {
   text-decoration: underline;
 }
 
+/* Override theme's mobile rule that hides all nav elements at ≤480px */
+@media screen and (max-width: 480px) {
+  header nav {
+    display: block;
+  }
+}
+
 /* Body links */
 section a,
 section a:visited {
