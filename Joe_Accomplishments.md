@@ -136,7 +136,7 @@
 - AAC Leadership Team (2022-08-24 - Present)
 - Hiring and Hiring Committee
     - Electronic evaluation form (2024-05-01, Qualtrics; 2025-12-01, web app)
-    - Residential Advisor 4 + 5 (2025-09)
+    - Residential Advisor 4 + 5 + 6(2025-09)
     - Residential Advisor 2 + 3 (2023-11)
     - Residential Advisor 1 (2023-03)
 - Beyond120
