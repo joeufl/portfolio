@@ -16,11 +16,11 @@ permalink: /projects
 
 > "A game-changer for our ability to support students, especially as first-year pre-health advising responsibilities are transferred to departments, given that over 70% of biology majors aspire to health professions."
 >
-> — Sharon Karackattu, Biology Advisor
+> — Biology Advisor
 
 > "This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
 >
-> — Brittany Hoover, Assistant Director of Pre-Health Advising, CLAS
+> — Assistant Director of Pre-Health Advising, College of Liberal Arts and Sciences
 
 ---
 
@@ -48,7 +48,7 @@ permalink: /projects
 
 > "I'm grateful to have a data coordinator and a graduation coordinator, who can find the time to work together to make progress like this. First and foremost for the students, of course, but writ large it helps the university achieve its goals of getting students their degrees."
 >
-> — Joe Spillane, former Associate Dean, College of Liberal Arts and Sciences
+> — Former Associate Dean, College of Liberal Arts and Sciences
 
 ---
 
@@ -76,7 +76,7 @@ permalink: /projects
 
 > "He has created a model for how large and small advising units can and should adopt specific technologies to improve how they interact with and serve students."
 >
-> — TJ Summerford, CRM Team Lead, UF Information Technology
+> — IT Manager, UF Information Technology
 
 ---
 
