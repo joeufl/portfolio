@@ -3,9 +3,9 @@ layout: default
 title: Portfolio
 ---
 
-Data Management | Analytics Engineering | Institutional Data Systems
+<p class="tagline">Data Management | Analytics Engineering | Institutional Data Systems</p>
 
-I design and deploy production data systems at the University of Florida's College of Liberal Arts and Sciences — a top-10 public research university serving 60,000+ students. My work spans writing Snowflake pipelines and Python automation, integrating AI-powered analytics, and managing CRM and enterprise reporting platforms. The part that makes systems stick is institutional range — I translate between leadership and IT, navigate the approvals, and train end-users until the system runs operationally without me.
+I design and deploy production data systems at the University of Florida's College of Liberal Arts and Sciences, a top-10 public research university serving 60,000+ students. My work spans writing Snowflake pipelines and Python automation, integrating AI-powered analytics, and managing CRM and enterprise reporting platforms. The part that makes systems stick is institutional range. I translate between leadership and IT, navigate the approvals, and train end-users until the system runs operationally without me.
 
 - Snowflake SQL, data warehousing, and ETL/ELT pipeline development
 - Python automation (pandas, data engineering, API integrations)

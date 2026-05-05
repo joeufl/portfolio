@@ -3,6 +3,16 @@
 
 @import "jekyll-theme-midnight";
 
+/* Tagline subtitle */
+.tagline {
+  font-size: 0.8em;
+  color: #999999;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
+}
+
 /* Nav list */
 header nav ul {
   list-style: none;
@@ -88,6 +98,6 @@ section strong {
 
 @media screen and (min-width: 768px) {
   body {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
