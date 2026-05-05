@@ -17,10 +17,16 @@ I design and deploy production data systems at the University of Florida's Colle
 ---
 
 > "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."
+>
+> — Associate Dean, Director of the Academic Advising Center
 
 > "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."
+>
+> — IT Manager, UF Information Technology
 
 > "This would not have been possible without Joe Uong's swift and clever buildout of the data."
+>
+> — Former Associate Dean, College of Liberal Arts and Sciences
 
 ---
 
