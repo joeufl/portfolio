@@ -21,7 +21,7 @@
 - Effective Data Requests (2024-04-25)
 - Presenting _Digital Body Language_ by Erica Dhawan (2023-02-09)
 
-### Division of Enrollment Mangement | Office of the University Registrar
+### Division of Enrollment Management | Office of the University Registrar
 - Room Scheduling Office Hours
 - Registration Office Hours
 - Grades Office Hours

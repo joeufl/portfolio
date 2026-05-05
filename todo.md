@@ -42,8 +42,8 @@
 
 ### Content
 
-- [ ] **D. CLAS Instructor Workload — strong quote not yet used**
-  `Joe_Accomplishments.md` has an email from Trysh Travis (Associate Dean level): *"Joe Uong's swift and clever buildout of the data"* — enabled manual submission of 800 rows in 48 hours to the Provost's Office. Specific outcome, senior voice. Consider adding to homepage quotes or projects.
+- [x] **D. CLAS Instructor Workload — strong quote not yet used**
+  Added Trysh Travis quote to homepage: *"This would not have been possible without Joe Uong's swift and clever buildout of the data."*
 
 - [ ] **E. Internal web apps not yet in portfolio**
   Three live tools co-built with Dan Shields (he handled front-end):
@@ -52,9 +52,7 @@
   - CLAS Advising Candidate Evaluation portal — collects hiring evaluations online
   These demonstrate full-stack thinking even if backend-focused. Worth a brief mention or a grouped "Internal Tools" entry on the projects page.
 
-- [ ] **F. Leadership roles not surfaced anywhere**
-  - UAC Finance Committee Chair and Steering Committee member (2025–present)
-  - CLAS Staff Council (2024–present) — launched Staff Excellence Award, staff survey, salary adjustment
-  These are cross-unit leadership roles that don't appear in the current portfolio.
+- [x] **F. Leadership roles not surfaced anywhere**
+  Added Service & Leadership section to Professional Activity page: UAC Finance Committee Chair/Steering Committee, CLAS Staff Council, SAM workgroup, Data@UF, AOTW.
 
 - [x] **G. About page — published paper** — Added note to education section: doctoral coursework produced a peer-reviewed publication in the *Community College Journal of Research and Practice* (2017). Framed as research output, not a community college specialization.
