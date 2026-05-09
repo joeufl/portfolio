@@ -92,12 +92,14 @@ permalink: /projects
 
 ---
 
-## Unique Waitlist Demand Reporting
+## Campus-Wide Reporting
 
-**Problem:** Standard waitlist counts don't distinguish between two fundamentally different student situations: a student already enrolled in a course who joined the waitlist hoping for a better section, and a student on the waitlist with no seat at all who genuinely needs one. Treating them the same makes it impossible to prioritize registration decisions or measure true unmet course demand.
+**Problem:** Two recurring gaps in campus reporting: standard waitlist counts obscured true unmet course demand, and advisors without dedicated data support had no way to do bulk student lookups across multiple courses. A colleague described checking grades for her ~70 students one by one, a manual process with no scalable alternative for offices without a local data professional.
 
-**Approach:** Built a report in Cognos using Snowflake views that separates waitlisted students into two groups — those already enrolled in the course (seeking a preferred seat) and those not enrolled at all (needing a seat). UF data governance restrictions prevented sharing the report directly with the broader advising community. To extend access, I requested that UFIT replicate it in their infrastructure using my code and logic; they built and deployed it campus-wide through Enterprise Analytics reporting infrastructure.
+**Unique Waitlist Demand Reporting:** Built a report in Cognos using Snowflake views that separates waitlisted students into two groups: those already enrolled in the course (seeking a preferred seat) and those not enrolled at all (needing a seat). UF data governance restrictions prevented sharing it directly with the broader advising community, so I requested that UFIT replicate it in their infrastructure using my code and logic.
 
-**Tools:** Snowflake SQL, UFIT Enterprise Reports
+**Bulk Student-Course Lookup:** Brought the bulk lookup need to UFIT and worked with them to define and build a report through Enterprise Analytics that accepts multiple course IDs and student UFIDs at once, returning results in a single query instead of one-by-one manual checks.
 
-**Impact:** The report is now available to the full academic and advising community across UF. Advisors and departmental administrators can identify which waitlisted students actually need a seat — enabling informed prioritization and a clearer picture of true course demand.
+**Tools:** Snowflake SQL, IBM Cognos, UFIT Enterprise Reports
+
+**Impact:** Both reports are now available campus-wide through UFIT Enterprise Analytics and accessible to the full advising and registration community without requiring a local data contact to fulfill requests. A pattern: when a colleague surfaces a problem that no one else has the position or access to fix, I route it to the right institutional partner and get it built for everyone.
