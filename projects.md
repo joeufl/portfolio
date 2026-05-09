@@ -12,7 +12,7 @@ permalink: /projects
 
 **Tools:** Python, Snowflake, Campus Solutions (PeopleSoft SIS), MySQL (Acadvise), CLAS web infrastructure
 
-**Current state:** A few thousand students are now tracked with a clean, maintained record — replacing years of guesswork. The indicator is intentionally built as a foundation: planned future uses include pre-health course demand prediction and surfacing BCP/BCPM GPAs directly in students' degree audits.
+**Impact:** Over 2500 students are now tracked with a clean, maintained record replacing years of guesswork using various methods such as membership in a mailing list or enrollment in a few majors. The indicator is intentionally built as a foundation: planned future uses include pre-health course demand prediction and surfacing BCP/BCPM GPAs directly in students' degree audits.
 
 > "A game-changer for our ability to support students, especially as first-year pre-health advising responsibilities are transferred to departments, given that over 70% of biology majors aspire to health professions."
 >
@@ -28,11 +28,11 @@ permalink: /projects
 
 **Problem:** Each May, thousands of incoming UF freshmen need to be placed into Quest 1 courses before orientation begins. The previous process was run manually in Ruby by the Quest Director and didn't scale — seat allocation was inconsistent and priority groups weren't systematically enforced.
 
-**Approach:** Rewrote and maintain the algorithm in Python (2024). The script reads student survey responses from Salesforce alongside course section data from Campus Solutions, then applies a tiered priority system: URSP students in Honors sections are placed first, followed by URSP students in general sections, then Honors students in Honors sections, then the general population. Within each tier, students are assigned a random number to break ties fairly. The algorithm runs four independent versions per term — each with a fresh shuffle — so the team can compare outcomes and select the best fit before submitting to the Registrar. Covers both Summer and Fall terms. Unassigned students are identified separately and assigned a Spring Quest hold. Final output is delivered as a CSV to OUR and UFIT for mass enrollment via Campus Solutions.
+**Approach:** Rewrote and maintain the algorithm in Python (2024). The script reads student survey responses from Salesforce alongside course section data from Campus Solutions, then applies a tiered priority system. Within each tier, students are assigned a random number to break ties fairly. The algorithm runs multiple independent versions per term, each with a fresh shuffle, so the team can compare outcomes and select the best fit before submitting to the Registrar. Covers both Summer and Fall terms. Unassigned students are identified separately and assigned a Spring Quest hold. Final output is delivered as a CSV to OUR and UFIT for mass enrollment via Campus Solutions.
 
 **Tools:** Python (pandas), Salesforce, Snowflake, Campus Solutions (PeopleSoft SIS)
 
-**Impact:** Runs annually each May as part of UF Preview orientation preparation, placing thousands of incoming students across Summer and Fall. Priority logic updated in 2025 to better serve Honors and URSP populations.
+**Impact:** Runs annually each May as part of UF Preview orientation preparation, placing 3000 incoming students across Summer and Fall. Priority logic updated in 2025 to better serve Honors and URSP populations. Automatic registration based on student preference saves time in the registration appointment during the second day of orientation.
 
 ---
 
@@ -56,11 +56,11 @@ permalink: /projects
 
 **Problem:** When students drop courses, they sometimes leave free-text comments that signal medical or mental health distress. With hundreds of drop reasons submitted each week, manually reviewing each one for warning signs wasn't feasible — and missing a high-risk message carried real consequences.
 
-**Approach:** Built a two-part system: a weekly Cognos report surfaces all new SIDA drop comments (co-conceived with Lynn O'Sickey and Shannon Kelly), and a Snowflake stored procedure routes each unscored message through NaviGatorAI to generate a concern score. The scoring prompt was engineered with calibrated bands (1–19 routine, 20–49 low, 50–79 moderate, 80–100 critical) and includes human-graded examples as few-shot context to anchor the model's output. The prompt specifically flags messages indicating potential need for DRC accommodations, suicidal ideation, mental health crises, serious medical events, and major life instability. The model returns a JSON object with a 1–100 score and a one-sentence reason; parse failures default to a sentinel value for manual review. Results are versioned by model and timestamped on insert.
+**Approach:** Built a two-part system: a weekly Cognos report surfaces all new SIDA drop comments (co-conceived with academic advisors), and a Snowflake stored procedure routes each unscored message through NaviGatorAI to generate a concern score. The scoring prompt was engineered with calibrated bands (1–19 routine, 20–49 low, 50–79 moderate, 80–100 critical) and includes human-graded examples as few-shot context to anchor the model's output. The prompt specifically flags messages indicating potential need for DRC accommodations, suicidal ideation, mental health crises, serious medical events, and major life instability. The model returns a JSON object with a 1–100 score and a one-sentence reason; parse failures default to a sentinel value for manual review. Results are versioned by model and timestamped on insert.
 
 **Tools:** Snowflake (Snowpark Python stored procedure), NaviGatorAI (gpt-oss-120b), SQL, IBM Cognos
 
-**Impact:** Automates initial triage of all weekly drop activity. Advisors receive a prioritized list each Monday and focus outreach on the highest-scoring students. Eliminates the risk of a high-concern message going unreviewed in a large weekly batch.
+**Impact:** Automates initial triage of all weekly drop activity totally thousands per term. Advisors receive a prioritized list each Monday and focus outreach on the highest-scoring students. Eliminates the risk of a high-concern message going unreviewed in a large weekly batch.
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /projects
 
 **Tools:** Salesforce (Gator360), UFIT CRM team
 
-**Impact:** Described by the UFIT CRM team as "a long-standing goal become a reality." The goal was never just the configuration — it was demonstrating that an office was willing to go first.
+**Impact:** Described by the UFIT CRM team as "a long-standing goal become a reality." The goal was never just the configuration, but rather it was demonstrating that an office was willing to go first. 200+ advisors across the institution have read-only access to cases. Within a month of launch, three additional offices established reciprocal sharing agreements. 
 
 > "He has created a model for how large and small advising units can and should adopt specific technologies to improve how they interact with and serve students."
 >
