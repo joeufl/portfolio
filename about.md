@@ -12,7 +12,7 @@ I started at the Office of the University Registrar in 2011 as a Student Records
 
 ### COMPASS Project — University-Wide SIS Migration, 2016
 
-In 2016, I was selected to join COMPASS, a multi-year university-wide project to migrate UF's entire Student Information System from a legacy mainframe to Oracle PeopleSoft. I converted the full population of student records: majors, programs of study, degrees, courses, and enrollment history. I served as the liaison between functional staff and the UFIT development team, configured the new system to match university policy, and helped redesign the student-facing experience in the new environment. It was the most technically ambitious project the university had undertaken in a generation, and it gave me a view of the institution that's hard to get any other way where I understood the operational side from the Registrar, and the architectural side from the implementation.
+In 2016, I was selected to join [COMPASS](https://administrativememo.ufl.edu/2016/02/compass-campus-wide-modernization-program-to-advance-student-services/), a multi-year university-wide project to migrate UF's entire Student Information System from a legacy mainframe to Oracle PeopleSoft. I converted the full population of student records: majors, programs of study, degrees, courses, and enrollment history. I served as the liaison between functional staff and the UFIT development team, configured the new system to match university policy, and helped redesign the student-facing experience in the new environment. It was the most technically ambitious project the university had undertaken in a generation, and it gave me a view of the institution that's hard to get any other way where I understood the operational side from the Registrar, and the architectural side from the implementation.
 
 ### Business Intelligence Analyst — Office of the University Registrar, 2019
 
@@ -24,7 +24,7 @@ In 2022, I moved to the College of Liberal Arts and Sciences as a Data Managemen
 
 ### Instructor, First Year Florida — 2015–2025
 
-I also taught First Year Florida, UF's signature course for incoming students from 2015 to 2025. It kept me close to what the work is actually for.
+I also taught [First Year Florida](https://welcome.ufl.edu/fyf/), UF's signature course for incoming students from 2015 to 2025. It kept me close to what the work is actually for.
 
 ---
 
