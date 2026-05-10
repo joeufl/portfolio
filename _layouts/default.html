@@ -6,11 +6,14 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="icon" type="image/png" href="{{ '/assets/images/uong_logo.png' | relative_url }}">
   </head>
   <body>
     <nav class="site-nav">
       <div class="nav-inner">
-        <a href="{{ '/' | relative_url }}" class="nav-brand">{{ site.title }}</a>
+        <a href="{{ '/' | relative_url }}" class="nav-brand">
+          <img src="{{ '/assets/images/uong_logo.png' | relative_url }}" alt="{{ site.title }}">
+        </a>
         <ul class="nav-links">
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
           <li><a href="{{ '/about' | relative_url }}">About</a></li>
