@@ -8,26 +8,23 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-        <nav>
-          <ul>
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/about' | relative_url }}">About</a></li>
-            <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
-            <li><a href="{{ '/professional-activity' | relative_url }}">Professional Activity</a></li>
-            <li><a href="https://linkedin.com/in/josephuong">LinkedIn</a></li>
-          </ul>
-        </nav>
-      </header>
-      <section>
-        {{ content }}
-      </section>
-      <footer>
-        <p><small>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</small></p>
-      </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <nav class="site-nav">
+      <div class="nav-inner">
+        <a href="{{ '/' | relative_url }}" class="nav-brand">{{ site.title }}</a>
+        <ul class="nav-links">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/about' | relative_url }}">About</a></li>
+          <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
+          <li><a href="{{ '/professional-activity' | relative_url }}">Professional Activity</a></li>
+          <li><a href="https://linkedin.com/in/josephuong" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </nav>
+    <main class="page-content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </footer>
   </body>
 </html>
