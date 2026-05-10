@@ -70,6 +70,7 @@ blockquote p { margin-bottom: 0.25em; }
 
 .nav-brand img {
   height: 34px;
+  max-height: 34px;
   width: auto;
   display: block;
 }
@@ -106,6 +107,16 @@ h2 {
 }
 
 h3 { color: #4a9eff; }
+
+/* Persistent site author heading */
+.site-author {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0.15em;
+  border-bottom: none;
+}
 
 /* Tagline */
 .tagline {

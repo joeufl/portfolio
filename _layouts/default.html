@@ -12,7 +12,7 @@
     <nav class="site-nav">
       <div class="nav-inner">
         <a href="{{ '/' | relative_url }}" class="nav-brand">
-          <img src="{{ '/assets/images/uong_logo.png' | relative_url }}" alt="{{ site.title }}">
+          <img src="{{ '/assets/images/uong_logo.png' | relative_url }}" alt="{{ site.title }}" width="34" height="34">
         </a>
         <ul class="nav-links">
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
@@ -24,6 +24,7 @@
       </div>
     </nav>
     <main class="page-content">
+      <h1 class="site-author">{{ site.author }}</h1>
       {{ content }}
     </main>
     <footer class="site-footer">
