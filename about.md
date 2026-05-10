@@ -25,6 +25,18 @@ In 2022, I moved to the College of Liberal Arts and Sciences as a Data Managemen
 
 I also taught [First Year Florida](https://welcome.ufl.edu/fyf/), UF's signature course for incoming students from 2015 to 2025. It kept me close to what the work is actually for.
 
+> "He was very enthusiastic about the course and told us real-life examples to everything. He was open to our opinions and wanted to make sure our first semester was the best."
+> — Student
+<!-- 2021 -->
+
+> "Joe is so kind and made me feel welcome from the first day in class. He made me feel as though I was wanted in class. The environment he fostered enabled me to meet many friends I hope to continue to know throughout college and beyond."
+> — Student
+<!-- 2023  -->
+
+> "Professor Joe showed through our content and repetitive student interaction that he cared about the course and each and every one of his students. The course itself maintained a layout that helped students feel familiar with the resources on campus that we will use throughout our time at the university."
+> — Student
+<!-- 2024 -->
+
 ---
 
 **Education**
