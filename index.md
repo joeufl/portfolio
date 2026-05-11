@@ -4,14 +4,14 @@ title: Portfolio
 
 <p class="tagline">Data Management | Analytics Engineering | Institutional Data Systems</p>
 
-Data Management Analyst at the University of Florida's College of Liberal Arts and Sciences (60,000+ students). I build production data systems with Snowflake pipelines, Python automation, AI-powered analytics, and enterprise reporting platforms.
+Data Management Analyst at the University of Florida's College of Liberal Arts and Sciences. I build production data systems with Snowflake pipelines, Python automation, AI-powered analytics, and enterprise reporting platforms. 
 
 What makes systems stick is institutional range: I translate between leadership and IT, navigate approvals, and train end-users until the system runs without me.
 
 - Snowflake SQL, data warehousing, and ETL/ELT pipeline development
 - Python automation (pandas, data engineering, API integrations)
-- AI/LLM integration and prompt engineering (NaviGatorAI / GPT)
-- Salesforce CRM (Gator360), IBM Cognos, and Power BI
+- AI/LLM integration and prompt engineering
+- Salesforce CRM, IBM Cognos, and Power BI
 - Data governance, FERPA compliance, and cross-system data architecture
 - Cross-functional project leadership and stakeholder communication
 
@@ -19,7 +19,7 @@ What makes systems stick is institutional range: I translate between leadership 
 
 > "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."
 >
-> — Associate Dean, Director of the Academic Advising Center
+> — Associate Dean, College of Liberal Arts and Sciences
 
 > "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."
 >

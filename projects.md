@@ -15,7 +15,7 @@ permalink: /projects
 
 > "A game-changer for our ability to support students, especially as first-year pre-health advising responsibilities are transferred to departments, given that over 70% of biology majors aspire to health professions."
 >
-> — Biology Advisor
+> — Biology Advisor, College of Liberal Arts and Sciences
 
 > "This system has already proven invaluable in allowing our office to proactively reach and guide students more effectively."
 >
