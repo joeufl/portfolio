@@ -14,6 +14,9 @@
         <a href="{{ '/' | relative_url }}" class="nav-brand">
           <img src="{{ '/assets/images/uong_logo.png' | relative_url }}" alt="{{ site.title }}" width="34" height="34">
         </a>
+        <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
         <ul class="nav-links">
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
           <li><a href="{{ '/about' | relative_url }}">About</a></li>
@@ -23,6 +26,22 @@
         </ul>
       </div>
     </nav>
+    <script>
+      (function() {
+        var btn = document.querySelector('.nav-toggle');
+        var menu = document.querySelector('.nav-links');
+        btn.addEventListener('click', function() {
+          var open = menu.classList.toggle('is-open');
+          btn.setAttribute('aria-expanded', open);
+        });
+        menu.querySelectorAll('a').forEach(function(a) {
+          a.addEventListener('click', function() {
+            menu.classList.remove('is-open');
+            btn.setAttribute('aria-expanded', 'false');
+          });
+        });
+      })();
+    </script>
     <main class="page-content">
       <h1 class="site-author">{{ site.author }}</h1>
       {{ content }}
