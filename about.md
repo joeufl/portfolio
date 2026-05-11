@@ -17,9 +17,16 @@ In 2016, I was selected to join [COMPASS](https://administrativememo.ufl.edu/201
 
 When I returned to the Registrar's Office from the COMPASS project, I moved into the Business Intelligence Analyst role. Starting in the role in 2019, I could build analytics that made sense of what the system was actually doing. I built dashboards and reports used by department and executive leadership, partnered with UFIT on system enhancements, and ran campus-wide training sessions.
 
+> "You have been an integral part of the Registrar family for over 11 years. You have served our office and the university community in many ways over this period, advancing from an entry level role through the ranks to serve as a valued member of our management team. Your ability to absorb and synthesize huge amounts of information has allowed you to support just about every process in the office."  
+> — Senior Associate Registrar, Office of the University Registrar
+<!-- Final UF Engaged -->
+
 ### Data Management Analyst — College of Liberal Arts and Sciences, 2022
 
-In 2022, I moved to the College of Liberal Arts and Sciences as a Data Management Analyst. CLAS is the largest college at UF, and the work shifted from reporting on data to building systems that act on it: Snowflake pipelines, Python automation, AI-powered triage, enrollment algorithms, population tracking infrastructure. The problems I'm solving now are ones I watched get handled manually (or not handled at all) earlier in my career.
+In 2022, I moved to the College of Liberal Arts and Sciences as a Data Management Analyst. CLAS is the largest college at UF, and the work shifted from reporting on data to building systems that act on it: Snowflake pipelines, Python automation, AI-powered triage, enrollment algorithms, population tracking infrastructure. The problems I'm solving now are ones I watched get handled manually (or not handled at all) earlier in my career.  
+
+> "I especially appreciate that he is always willing to answer questions and help bring clarity to complicated processes. Joe’s professionalism, innovation, and collaborative spirit continue to elevate our work in significant ways."  
+> — Associate Dean, College of Liberal Arts and Science
 
 ### Instructor, First Year Florida — 2015–2025
 
