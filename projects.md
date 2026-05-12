@@ -22,7 +22,7 @@ permalink: /projects
 
 **Problem:** Pre-health students at UF had no reliable tracking mechanism. The closest thing was enrollment in a mailing list that wasn't actively maintained leaving advisors and administrators guessing at the actual population size. Demand forecasting for pre-health courses, and personalized tools like BCP/BCPM GPA visibility in the degree audit, were impossible without a clean, current population list.
 
-**Achievement:** The technical build was straightforward. The hard part was navigating the institutional process — getting the concept approved, the service indicator created, the self-service website launched, and the workflow accepted as an ongoing operational process. Received approval from the Dean's office (December 2024), stood up the `PRE/HLTH` service indicator in Campus Solutions (January 2025), and launched student outreach to seed the population (February 2025). A Python script runs weekly to reconcile student opt-in requests against current indicators in Campus Solutions and apply bulk adds and removes.
+**Achievement:** The technical build was straightforward. The hard part was navigating the institutional process: getting the concept approved, the service indicator created, the self-service website launched, and the workflow accepted as an ongoing operational process. Received approval from the Dean's office (December 2024), stood up the `PRE/HLTH` service indicator in Campus Solutions (January 2025), and launched student outreach to seed the population (February 2025). A Python script runs weekly to reconcile student opt-in requests against current indicators in Campus Solutions and apply bulk adds and removes.
 
 **Tools:** Python, Snowflake, Campus Solutions (PeopleSoft SIS), MySQL (Acadvise), CLAS web infrastructure
 
@@ -62,7 +62,7 @@ permalink: /projects
 
 ## Salesforce Case Sharing
 
-**Problem:** Advising case data across UF lived in silos — each office could only see its own cases, even when students had overlapping needs across colleges. No office had taken the step to open their cases broadly.
+**Problem:** Advising case data across UF lived in silos where each office could only see its own cases, even when students had overlapping needs across colleges. No office had taken the step to open their cases broadly.
 
 **Achievement:** CLAS became the first office to share its advising cases university-wide. Led the coordination with UFIT to make all CLAS cases visible as read-only to 200+ Salesforce-licensed advisors across campus serving as an olive branch intended to get the ball rolling on a culture of shared visibility. The gesture worked: IA, Honors, and Quest established reciprocal sharing agreements within a month, and conversations with additional colleges are ongoing.
 
@@ -77,13 +77,13 @@ permalink: /projects
 
 ## CLAS Registration Dashboard
 
-**Problem:** Department leaders across CLAS needed regular enrollment counts — how many majors, minors, and certificate students are in their department right now. Cognos could answer the question but required enough technical skill that most leaders came to me for one-off requests instead, creating a bottleneck for routine headcount questions.
+**Problem:** Department leaders across CLAS needed regular enrollment counts: how many majors, minors, and certificate students are in their department right now. Cognos could answer the question but required enough technical skill that most leaders came to me for one-off requests instead, creating a bottleneck for routine headcount questions.
 
 **Approach:** Built Snowflake views to aggregate current enrollment data by major, minor, and certificate across CLAS departments, then connected them to a Power BI dashboard built for a non-technical leadership audience. The dashboard refreshes automatically on a regular schedule so current counts are always available without a data request.
 
 **Tools:** Snowflake, Power BI
 
-**Impact:** Eliminated a recurring category of ad hoc data requests. Department leaders across CLAS now have self-service access to enrollment counts — no ticket required.
+**Impact:** Eliminated a recurring category of ad hoc data requests. Department leaders across CLAS now have self-service access to enrollment counts: no ticket required.
 
 ---
 
