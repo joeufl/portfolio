@@ -17,17 +17,14 @@ What makes systems stick is institutional range: I translate between leadership 
 
 ---
 
-> "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."
->
+> "Joe sets an exemplary standard of excellence in his field. His technical expertise, collegial collaboration, and innovative mindset serve as a model for the qualities we should all strive to achieve. He is not only a trusted resource for advisors and administrators alike, but also a key contributor to the university’s mission of advancing student success."  
+> — Assistant Provost for Student Success, Office of Undergraduate Education and Student Success
+
+> "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."  
 > — Associate Dean, College of Liberal Arts and Sciences
 
-> "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."
->
+> "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."  
 > — IT Manager, UF Information Technology
-
-> "This would not have been possible without Joe Uong's swift and clever buildout of the data."
->
-> — Former Associate Dean, College of Liberal Arts and Sciences
 
 ---
 
