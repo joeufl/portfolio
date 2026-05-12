@@ -10,11 +10,11 @@ My career has moved steadily deeper into the stack from front-line student servi
 I started at the Office of the University Registrar in 2011 as a Student Records Coordinator. The Registrar is where you learn what a student record actually is: not a row in a table, but the legal and operational representation of someone's academic career. I managed a team of 50, oversaw the processing and maintenance of 600,000+ records, and advised students directly on registration, academic policy, and holds. It's operational work, and it teaches you quickly where the system breaks and who absorbs the cost when it does.
 
 > "Every day you were presented with a new set of opportunities to show your supervisory and analytic skills. Your positive, can-do attitude is noticed by all and very well appreciated, especially by those you supervise."  
-> Supervisor / Coordinator of Admissions/Registration, Office of the University Registrar
+> — Supervisor / Coordinator of Admissions/Registration, Office of the University Registrar
 <!-- 2015-03-13 -->
 
 > "The first thing I noticed about you a s your supervisor is that you care very much for the university. In addition t o being a dedicated UF student, alumnus, and fan, you are also very proud to be a part of its professional staff."  
-> Supervisor / Coordinator of Admissions/Registration, Office of the University Registrar
+> — Supervisor / Coordinator of Admissions/Registration, Office of the University Registrar
 <!-- 2016-02-19 -->
 
 ### UF COMPASS Project — University-Wide SIS Migration, 2016
@@ -30,7 +30,7 @@ In 2016, I was selected to join [COMPASS](https://administrativememo.ufl.edu/201
 When I returned to the Registrar's Office from the COMPASS project, I moved into the Business Intelligence Analyst role. Starting in the role in 2019, I could build analytics that made sense of what the system was actually doing. I built dashboards and reports used by department and executive leadership, partnered with UFIT on system enhancements, and ran campus-wide training sessions.
 
 > "You have been an integral part of the Registrar family for over 11 years. You have served our office and the university community in many ways over this period, advancing from an entry level role through the ranks to serve as a valued member of our management team. Your ability to absorb and synthesize huge amounts of information has allowed you to support just about every process in the office."  
-> — Supervisor / Senior Associate Registrar, Office of the University Registrar
+> — Supervisor / Senior Associate University Registrar, Office of the University Registrar
 <!-- 2022-05-04, Final UF Engaged -->
 
 ### Data Management Analyst — College of Liberal Arts and Sciences, 2022
