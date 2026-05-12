@@ -20,7 +20,7 @@ permalink: /projects
 
 ## Pre-Health Service Indicator
 
-**Problem:** Pre-health students at UF had no reliable tracking mechanism. The closest thing was enrollment in a listserv that wasn't actively maintained — leaving advisors and administrators guessing at the actual population size. Demand forecasting for pre-health courses, and personalized tools like BCP/BCPM GPA visibility in the degree audit, were impossible without a clean, current population list.
+**Problem:** Pre-health students at UF had no reliable tracking mechanism. The closest thing was enrollment in a mailing list that wasn't actively maintained leaving advisors and administrators guessing at the actual population size. Demand forecasting for pre-health courses, and personalized tools like BCP/BCPM GPA visibility in the degree audit, were impossible without a clean, current population list.
 
 **Achievement:** The technical build was straightforward. The hard part was navigating the institutional process — getting the concept approved, the service indicator created, the self-service website launched, and the workflow accepted as an ongoing operational process. Received approval from the Dean's office (December 2024), stood up the `PRE/HLTH` service indicator in Campus Solutions (January 2025), and launched student outreach to seed the population (February 2025). A Python script runs weekly to reconcile student opt-in requests against current indicators in Campus Solutions and apply bulk adds and removes.
 
@@ -36,7 +36,7 @@ permalink: /projects
 
 ---
 
-## Quest Mass Enrollment Algorithm and Process
+## Quest Mass Enrollment System
 
 **Problem:** Each May, thousands of incoming UF freshmen need to be placed into Quest 1 courses before orientation begins. The previous process was written in Ruby and enrollment was done manually.
 
@@ -44,7 +44,7 @@ permalink: /projects
 
 **Tools:** Python (pandas), Salesforce, Snowflake, Campus Solutions (PeopleSoft SIS)
 
-**Impact:** Runs annually each May as part of UF Preview orientation preparation, placing 3000 incoming students across Summer and Fall. Priority logic updated in 2025 to better special populations of students. Automatic registration based on student preference saves time in the registration appointment during the second day of orientation.
+**Impact:** Runs annually each May as part of UF Preview orientation preparation, placing 3000 incoming students across Summer and Fall. Priority logic updated in 2025 to better serve special populations of students. Automatic registration based on student preference saves time in the registration appointment during the second day of orientation.
 
 ---
 
@@ -56,7 +56,7 @@ permalink: /projects
 
 **Tools:** Snowflake (Snowpark Python stored procedure), NaviGatorAI (gpt-oss-120b), SQL, IBM Cognos
 
-**Impact:** Automates initial triage of all weekly drop activity totally thousands per term. Advisors receive a prioritized list each Monday and focus outreach on the highest-scoring students. Eliminates the risk of a high-concern message going unreviewed in a large weekly batch.
+**Impact:** Automates initial triage of all weekly drop activity that totals thousands per term. Advisors receive a prioritized list each Monday and focus outreach on the highest-scoring students. Eliminates the risk of a high-concern message going unreviewed in a large weekly batch.
 
 ---
 

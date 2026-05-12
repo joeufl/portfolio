@@ -13,7 +13,7 @@ I started at the Office of the University Registrar in 2011 as a Student Records
 > — Supervisor / Coordinator of Admissions/Registration, Office of the University Registrar
 <!-- 2015-03-13 -->
 
-> "The first thing I noticed about you a s your supervisor is that you care very much for the university. In addition t o being a dedicated UF student, alumnus, and fan, you are also very proud to be a part of its professional staff."  
+> "The first thing I noticed about you as your supervisor is that you care very much for the university. In addition to being a dedicated UF student, alumnus, and fan, you are also very proud to be a part of its professional staff."  
 > — Supervisor / Coordinator of Admissions/Registration, Office of the University Registrar
 <!-- 2016-02-19 -->
 
@@ -21,7 +21,7 @@ I started at the Office of the University Registrar in 2011 as a Student Records
 
 In 2016, I was selected to join [COMPASS](https://administrativememo.ufl.edu/2016/02/compass-campus-wide-modernization-program-to-advance-student-services/), a multi-year university-wide project to migrate UF's entire Student Information System from a legacy mainframe to Oracle PeopleSoft. I converted the full population of student records: majors, programs of study, degrees, courses, and enrollment history. I served as the liaison between functional staff and the UFIT development team, configured the new system to match university policy, and helped redesign the student-facing experience in the new environment. It was the most technically ambitious project the university had undertaken in a generation, and it gave me a view of the institution that's hard to get any other way where I understood the operational side from the Registrar, and the architectural side from the implementation.
 
-> "You were selected as a member of the project team because of your keen analytical skills, quick learning style, penchant for exploring and thinking 'outside the box' and your work ethic and positive attitude towards change. Your unique and fresh perspective on administrative processes has pushed our team to look closely a how things have been done and often find a more appropriate solution as we move forward.  
+> "You were selected as a member of the project team because of your keen analytical skills, quick learning style, penchant for exploring and thinking 'outside the box' and your work ethic and positive attitude towards change. Your unique and fresh perspective on administrative processes has pushed our team to look closely at how things have been done and often find a more appropriate solution as we move forward."  
 > — Supervisor / Student Records Team Lead, UF COMPASS
 <!-- 2017-03-14 -->
 
@@ -38,7 +38,7 @@ When I returned to the Registrar's Office from the COMPASS project, I moved into
 In 2022, I moved to the College of Liberal Arts and Sciences as a Data Management Analyst. CLAS is the largest college at UF, and the work shifted from reporting on data to building systems that act on it: Snowflake pipelines, Python automation, AI-powered triage, enrollment algorithms, population tracking infrastructure. The problems I'm solving now are ones I watched get handled manually (or not handled at all) earlier in my career.  
 
 > "I especially appreciate that he is always willing to answer questions and help bring clarity to complicated processes. Joe’s professionalism, innovation, and collaborative spirit continue to elevate our work in significant ways."  
-> — Supervisor / Associate Dean, College of Liberal Arts and Science
+> — Supervisor / Associate Dean, College of Liberal Arts and Sciences
 <!-- 2026-04-24 -->
 
 ### Instructor, First Year Florida — 2015–2025
