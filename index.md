@@ -18,13 +18,16 @@ What makes systems stick is institutional range: I translate between leadership 
 ---
 
 > "Joe sets an exemplary standard of excellence in his field. His technical expertise, collegial collaboration, and innovative mindset serve as a model for the qualities we should all strive to achieve. He is not only a trusted resource for advisors and administrators alike, but also a key contributor to the university’s mission of advancing student success."  
-> — Assistant Provost for Student Success, Office of Undergraduate Education and Student Success
+> — Assistant Provost for Student Success, Office of Undergraduate Education and Student Success *(UF HR Superior Accomplishment Nomination Packet)*
 
 > "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."  
-> — Associate Dean, College of Liberal Arts and Sciences
+> — Associate Dean, College of Liberal Arts and Sciences *(UF HR Superior Accomplishment Nomination Packet)*
+
+> "This comes at a time when data is mission-critical for informed decision-making and for measuring performance across the University. His professionalism, proactiveness, and dedication to continuous improvement make him an invaluable member of the University of Florida and set an example for others to follow."  
+> — IT Manager (Data Engineering), UF Information Technology *(UF HR Superior Accomplishment Nomination Packet)*
 
 > "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."  
-> — IT Manager, UF Information Technology
+> — IT Manager (Customer Relationship Management), UF Information Technology *(UF HR Superior Accomplishment Nomination Packet)*
 
 ---
 
