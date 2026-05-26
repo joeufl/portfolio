@@ -17,42 +17,39 @@ What makes systems stick is institutional range: I translate between leadership 
 
 ---
 
-> "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."
->
+> "Joe sets an exemplary standard of excellence in his field. His technical expertise, collegial collaboration, and innovative mindset serve as a model for the qualities we should all strive to achieve. He is not only a trusted resource for advisors and administrators alike, but also a key contributor to the university’s mission of advancing student success."  
+> — Assistant Provost for Student Success, Office of Undergraduate Education and Student Success
+
+> "A combination of expertise, innovation, and collegiality that makes him not only indispensable within the Academic Advising Center and our college, but also a trusted partner across UF's advising, data, and IT communities."  
 > — Associate Dean, College of Liberal Arts and Sciences
 
-> "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."
->
+> "He is the guy who helps his unit, and the University at large to become a better version of itself from within through creative ideas, consensus building, and technical acumen."  
 > — IT Manager, UF Information Technology
-
-> "This would not have been possible without Joe Uong's swift and clever buildout of the data."
->
-> — Former Associate Dean, College of Liberal Arts and Sciences
 
 ---
 
 ## Selected Work
 
-### [Pre-Health Service Indicator](/projects#pre-health-service-indicator)
-Built the infrastructure to track UF's pre-health student population — replacing years of guesswork from an unmaintained listserv with a maintained, self-service system now used by thousands of students.
-
-### [Quest Mass Enrollment Algorithm](/projects#quest-mass-enrollment-algorithm)
-Annual placement algorithm for incoming UF freshmen into Quest 1 courses. Runs each May using survey data and priority logic to enroll thousands of students before orientation.
-
 ### [Close2Grad](/projects#close2grad)
 Data-driven outreach program that identifies discontinued UF students close to graduation and helps them finish. Built the reporting system; the CLAS Undergraduate Graduation Coordinator led direct student outreach. 13 graduates and counting.
 
+### [Pre-Health Service Indicator](/projects#pre-health-service-indicator)
+Built the infrastructure to track UF's pre-health student population replacing years of guesswork from an unmaintained email list with a maintained, self-service system now used by thousands of students.
+
+### [Quest Mass Enrollment System](/projects#quest-mass-enrollment-algorithm)
+Annual placement algorithm for incoming UF freshmen into Quest 1 courses. Runs each May using survey data and priority logic to enroll thousands of students before orientation.
+
 ### [SIDA Watchlist + AI Concern Scoring](/projects#sida-watchlist--ai-concern-scoring)
-Early warning system that uses NaviGatorAI (GPT) to read student drop reasons and score each 1–100 for level of concern — enabling advisors to do proactive outreach for at-risk students.
+Early warning system that uses NaviGatorAI (GPT) to read student drop reasons and score each 1–100 for level of concern which enables advisors to do proactive outreach for at-risk students.
 
 ### [Salesforce Case Sharing](/projects#salesforce-case-sharing)
-Led the integration of CLAS advising operations into Salesforce (Gator360) and opened CLAS cases as read-only to 200+ campus advisors across UF — a long-standing goal realized in April 2025.
+Led the integration of CLAS advising operations into Salesforce (Gator360) and opened CLAS cases as read-only to 200+ campus advisors across UF, a long-standing goal realized in April 2025.
 
 ### [CLAS Registration Dashboard](/projects#clas-registration-dashboard)
-Power BI dashboard backed by Snowflake views that gives CLAS department leaders self-service access to current enrollment counts across majors, minors, and certificates — replacing recurring ad hoc data requests.
+Power BI dashboard backed by Snowflake views that gives CLAS department leaders self-service access to current enrollment counts across majors, minors, and certificates replacing recurring ad hoc data requests.
 
 ### [Campus-Wide Reporting](/projects#campus-wide-reporting)
-Two reporting gaps — obscured waitlist demand and no bulk student lookup tool — routed to UFIT and deployed campus-wide through Enterprise Analytics. Both came from recognizing that a local problem was really an institutional one.
+Two reporting gaps, obscured waitlist demand and no bulk student lookup tool, routed to UFIT and deployed campus-wide through Cognos (Enterprise Analytics). Both came from recognizing that a local problem was really an institutional one.
 
 ---
 
