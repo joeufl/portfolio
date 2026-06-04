@@ -70,8 +70,7 @@ New items from a full review of the site source. Ordered roughly by impact-to-ef
 - [ ] **I. Every page emits the same `<meta name="description">`**
   `default.html` hard-codes `{{ site.description }}` for all pages, so Home, About, Projects, and Professional Activity share one generic description. Add a `description:` key to each page's front matter and fall back to `site.description` (`{{ page.description | default: site.description }}`), or let `jekyll-seo-tag` handle it.
 
-- [ ] **J. No sitemap or robots.txt**
-  Add the `jekyll-sitemap` plugin (GitHub Pages-supported) to generate `sitemap.xml`, and a small `robots.txt` pointing to it. Improves crawlability and indexing for the custom domain.
+- [x] **J. Search-engine visibility** — Decided *against* a sitemap. Goal reversed to keeping the site out of search results: added a site-wide `<meta name="robots" content="noindex, nofollow">` to `_layouts/default.html`. Note: this hides the site from search engines but does **not** make it private — the custom domain remains publicly accessible to anyone with the URL. Crawling is intentionally left unblocked (no `robots.txt` disallow) so crawlers can read the `noindex` and actually drop the pages.
 
 - [ ] **K. Add JSON-LD `Person` structured data**
   A `Person` schema block on the homepage (name, jobTitle, worksFor: University of Florida, sameAs: LinkedIn) gives search engines and AI assistants a clean machine-readable identity. Low effort, good for a name-based search ("Joe Uong UF data").
