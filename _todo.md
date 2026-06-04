@@ -24,8 +24,7 @@
 
 ### Professional Activity Page
 
-- [ ] **10. Table overflow on mobile**
-  The Presentations table has 7 columns with long conference names. Will wrap badly on small screens. Consider collapsing Date and Location into one column, or dropping Location entirely.
+- [x] **10. Table overflow on mobile** — Resolved via item N: tables now scroll horizontally on small screens (`display: block; overflow-x: auto; white-space: nowrap` under the mobile breakpoint), so the 7-column Presentations table no longer breaks the layout. No content restructuring needed.
 
 - [ ] **11. Emojis in section headings** *(likely stale — re-confirm)*
   🏆, 🎤, 📰 — personal call. As of the 2026-06-03 review, the Professional Activity headings no longer contain emojis; the only emoji left on the site is `➡️` before "View Projects" on the homepage. Decide whether to keep that one and close this item.
@@ -87,8 +86,7 @@ New items from a full review of the site source. Ordered roughly by impact-to-ef
 
 ### Mobile / CSS
 
-- [ ] **N. Make wide tables horizontally scrollable (addresses open item #10)**
-  Rather than restructuring the 7-column Presentations table by hand, add a global rule that lets any overflowing table scroll within its container (e.g. wrap tables or apply `display: block; overflow-x: auto;` on `table` under the mobile breakpoint). One CSS change fixes every current and future table. Item #10 can then be closed.
+- [x] **N. Make wide tables horizontally scrollable (addresses open item #10)** — Done. Added a rule under the `max-width: 700px` breakpoint in `style.scss` making tables `display: block; overflow-x: auto; white-space: nowrap`, so any overflowing table scrolls horizontally rather than collapsing. Fixes every current and future table; closed item #10.
 
 ### Content
 
