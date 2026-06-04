@@ -197,6 +197,14 @@ tr:nth-child(even) td { background: #1e1e1e; }
 @media (max-width: 700px) {
   body { font-size: 15px; }
 
+  /* Let wide tables scroll horizontally instead of breaking the layout */
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+
   .nav-inner {
     height: 56px;
     padding: 0 1rem;
