@@ -64,8 +64,8 @@ New items from a full review of the site source. Ordered roughly by impact-to-ef
 
 ### SEO & Discoverability (highest leverage — this is a portfolio meant to be shared)
 
-- [ ] **H. No social-share preview (Open Graph / Twitter Cards)**
-  When the site is shared on LinkedIn, Slack, or iMessage, no preview card renders (no title, description, or image). For a portfolio that lives or dies on how it looks when a hiring manager pastes the link, this is the single highest-value fix. Add `og:title`, `og:description`, `og:image`, `og:url`, `og:type`, and `twitter:card` tags to `_layouts/default.html`. Reuse `uong_logo.png` or create a 1200×630 share image. Simplest path: enable the `jekyll-seo-tag` plugin (supported on GitHub Pages) and add `{% seo %}` to `<head>`.
+- [x] **H. Social-share preview (Open Graph / Twitter Cards)** — Done. Added Open Graph (`og:type/site_name/title/description/url/image`) and Twitter card meta tags to `_layouts/default.html`, so a preview card now renders when the link is shared on LinkedIn, Slack, iMessage, etc. Titles/descriptions are per-page (`page.description | default: site.description`); the meta description now uses the same fallback, which also covers item I. Works alongside `noindex` — social scrapers read these tags regardless of search indexing.
+  - **Follow-up (optional):** uses `uong_logo.png` (small/square) with `twitter:card: summary`. For a richer large-format card, add a 1200×630 share image and switch to `summary_large_image`.
 
 - [ ] **I. Every page emits the same `<meta name="description">`**
   `default.html` hard-codes `{{ site.description }}` for all pages, so Home, About, Projects, and Professional Activity share one generic description. Add a `description:` key to each page's front matter and fall back to `site.description` (`{{ page.description | default: site.description }}`), or let `jekyll-seo-tag` handle it.
