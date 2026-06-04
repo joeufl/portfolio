@@ -1,0 +1,6 @@
+# Crawling is intentionally allowed so search engines can fetch each page
+# and read its <meta name="robots" content="noindex"> tag, which is what
+# actually keeps this site out of search results. Do not add "Disallow: /"
+# here — that would block the crawl and prevent the noindex from being seen.
+User-agent: *
+Disallow:
