@@ -26,8 +26,7 @@
 
 - [x] **10. Table overflow on mobile** — Resolved via item N: tables now scroll horizontally on small screens (`display: block; overflow-x: auto; white-space: nowrap` under the mobile breakpoint), so the 7-column Presentations table no longer breaks the layout. No content restructuring needed.
 
-- [ ] **11. Emojis in section headings** *(likely stale — re-confirm)*
-  🏆, 🎤, 📰 — personal call. As of the 2026-06-03 review, the Professional Activity headings no longer contain emojis; the only emoji left on the site is `➡️` before "View Projects" on the homepage. Decide whether to keep that one and close this item.
+- [x] **11. Emojis** — Closed. Professional Activity headings already had no emojis; the last emoji on the site (`➡️` before "View Projects") was replaced with a styled `.cta` button whose `→` arrow is a CSS pseudo-element (accent-blue pill, arrow nudges right on hover). The site is now emoji-free.
 
 ---
 

@@ -56,4 +56,4 @@ Two reporting gaps, obscured waitlist demand and no bulk student lookup tool, ro
 
 ---
 
-➡️ [View Projects](/projects)
+[View Projects](/projects){: .cta}
