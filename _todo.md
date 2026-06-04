@@ -65,7 +65,7 @@ New items from a full review of the site source. Ordered roughly by impact-to-ef
 ### SEO & Discoverability (highest leverage — this is a portfolio meant to be shared)
 
 - [x] **H. Social-share preview (Open Graph / Twitter Cards)** — Done. Added Open Graph (`og:type/site_name/title/description/url/image`) and Twitter card meta tags to `_layouts/default.html`, so a preview card now renders when the link is shared on LinkedIn, Slack, iMessage, etc. Titles/descriptions are per-page (`page.description | default: site.description`); the meta description now uses the same fallback, which also covers item I. Works alongside `noindex` — social scrapers read these tags regardless of search indexing.
-  - **Follow-up (optional):** uses `uong_logo.png` (small/square) with `twitter:card: summary`. For a richer large-format card, add a 1200×630 share image and switch to `summary_large_image`.
+  - **Follow-up — done:** added a branded 1200×630 share image (`assets/images/og-share.png`, dark theme + name/tagline/URL + logo) and switched the card to `summary_large_image` with `og:image:width/height` set. Links now render a full-width banner preview.
 
 - [ ] **I. Every page emits the same `<meta name="description">`**
   `default.html` hard-codes `{{ site.description }}` for all pages, so Home, About, Projects, and Professional Activity share one generic description. Add a `description:` key to each page's front matter and fall back to `site.description` (`{{ page.description | default: site.description }}`), or let `jekyll-seo-tag` handle it.
