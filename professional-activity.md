@@ -12,6 +12,16 @@ permalink: /professional-activity
 | 2020 | [Superior Accomplishment Award](https://hr.ufl.edu/professional-development/employee-awards/superior-accomplishment-awards/) - Employee Performance | University of Florida - Academic Affairs Division | 
 | 2020 | Outstanding Co-Instructor - Summer B | [First Year Florida](https://welcome.ufl.edu/fyf/) | 
 
+## Certifications & Badges
+
+| Year | Credential | Issuer |
+| :--- | :--- | :--- |
+| 2026 | [Hands-On Essentials: Data Engineering Workshop](https://www.credential.net/a998509d-a27b-419a-95bd-9c833cb70301) | Snowflake |
+| 2026 | [Hands-On Essentials: Data Warehousing Workshop](https://www.credential.net/918daa1f-f61b-4636-a63c-045b88cc9323) | Snowflake |
+| 2026 | [ACC-SPT](https://training.snowflake.com/lmt/!clmsbadges.pView?bdg=52d08b3d-f0aa-7115-e063-448c3c0a910c&src=public) | Snowflake |
+| 2026 | [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/mf9ogsz9iegi) | Anthropic Education |
+| 2026 | [Claude Code 101](https://verify.skilljar.com/c/tu6e49zdqdpp) | Anthropic Education |
+
 ## Presentations & Publications
 
 | Year | Conference/Publication Name | Title | Role | Collaborators | Date & Location |
