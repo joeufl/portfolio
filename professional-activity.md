@@ -16,11 +16,11 @@ permalink: /professional-activity
 
 | Year | Credential | Issuer |
 | :--- | :--- | :--- |
+| 2026 | [Hands-On Essentials: Data Application Builders Workshop](https://www.credential.net/f30ec751-4cd6-4de0-a026-be2bab64cc73) | Snowflake |
 | 2026 | [Hands-On Essentials: Data Lake Workshop](https://www.credential.net/d85619c8-4478-421a-9924-03401aef74bc) | Snowflake |
 | 2026 | [Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop](https://www.credential.net/9f5e80a7-6433-4809-914e-79ec4facc5b7) | Snowflake |
 | 2026 | [Hands-On Essentials: Data Engineering Workshop](https://www.credential.net/a998509d-a27b-419a-95bd-9c833cb70301) | Snowflake |
 | 2026 | [Hands-On Essentials: Data Warehousing Workshop](https://www.credential.net/918daa1f-f61b-4636-a63c-045b88cc9323) | Snowflake |
-| 2026 | [ACC-SPT](https://training.snowflake.com/lmt/!clmsbadges.pView?bdg=52d08b3d-f0aa-7115-e063-448c3c0a910c&src=public) | Snowflake |
 | 2026 | [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/mf9ogsz9iegi) | Anthropic Education |
 | 2026 | [Claude Code 101](https://verify.skilljar.com/c/tu6e49zdqdpp) | Anthropic Education |
 

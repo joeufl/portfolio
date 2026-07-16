@@ -141,8 +141,9 @@
     - Residential Advisor 1 (2023-03)
 - Beyond120
     - Data in Suitable (Gator Ready) and GivePulse
+    - Atlanta Excursion 2026 (2026-03-20)
     - Humanities Career Excursion (Presented by Beyond120 and Career Connections Center) (2025-11-05)
-    - Atlanta Excursion 2025 (2025-03-20)
+    - Atlanta Excursion 2025 (2025-03-21)
     - Beyond120 Course Attribute (2024-07-22) and WH Access (2024-08-06)
     - Atlanta Excursion 2024 (2024-03-15)
 - Automation
@@ -191,6 +192,7 @@
 ### UF Salesforce
 - Continual Integration of CLAS AAC into Salesforce
     - Teams/Workgroups: CLAS Forms, Dean's Medal, Dean's List, Pre-Health, Petitions, Transfer, Pre-Law, Readmission, CLAS Graduation, UF Online
+    - Misc: CLAS Agreements, Preview Prep
 - Case sharing with UF Advising (2025-04-11)
     > Joe-  
     > This request has been completed. Thank you for your leadership in helping this long-standing goal become a reality.  
